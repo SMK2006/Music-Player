@@ -23,7 +23,7 @@ new Vue({
           name: "TRACK #1: 'LOST'",
           artist: "Sami Moutaoukil",
           cover: "Elise.jpg",
-          source: "LOST.mp3",
+          source: "Lost.mp3",
           url: "",
           favorited: false
         },
