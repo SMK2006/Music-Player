@@ -19,11 +19,21 @@ new Vue({
           url: "",
           favorited: false
         },
+        
         {
           name: "TRACK #1: 'LOST'",
           artist: "Sami Moutaoukil",
           cover: "Elise.jpg",
           source: "Lost.mp3",
+          url: "",
+          favorited: false
+        },
+
+        {
+          name: "TRACK #2: Hub Music",
+          artist: "Sami Moutaoukil",
+          cover: "logo.jpeg",
+          source: "lobby.mp3",
           url: "",
           favorited: false
         },
