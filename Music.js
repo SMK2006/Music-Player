@@ -21,6 +21,15 @@ new Vue({
         },
         
         {
+          name: "TRACK #0.2: CHAOS" ,
+          artist: "Sami Moutaoukil",
+          cover: "logo.jpeg",
+          source: "chaos.mp3",
+          url: "I_CAN_SEE_YOU_[COVER_TRACK1]",
+          favorited: false
+        },
+
+        {
           name: "TRACK #1: 'LOST'",
           artist: "Sami Moutaoukil",
           cover: "Elise.jpg",
